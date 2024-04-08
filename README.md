@@ -1,2 +1,4 @@
+<p align="center">
 # Kuromi
-discord bot made by me
+
+A Powerful Multipurpose Discord Bot，Based on Discord.py.
