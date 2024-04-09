@@ -1,1 +1,1 @@
-consloe.log("hello")
+const pair = "extraordinaire"
