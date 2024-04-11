@@ -9,8 +9,6 @@
   <img src="https://img.shields.io/badge/LICENSE-MIT-green"  />
 </p>
 
-![Alt](https://repobeats.axiom.co/api/embed/8c8ffc71c338891e080c675e9d0ac2af8532feb9.svg "Repobeats analytics image")
-
 ## Features
 
 - **Server Management:** Welcome/leave messages, server info control.
